@@ -1,0 +1,4 @@
+#Wed Jun 12 15:11:50 CST 2019
+base.0=C\:\\Users\\desarrollador6\\Documents\\Luis CIfuentes\\31 Amazon Example\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="4in WVGA (Nexus S)" />
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
+  </component>
+  <component name="AvailableLibraryUpdateStorage">
+    <library-updates>
+      <library-update>
+        <group-id>com.android.support</group-id>
+        <name>recyclerview-v7</name>
+        <version>28.0.0</version>
+        <repository>Google</repository>
+      </library-update>
+      <library-update>
+        <group-id>org.jetbrains</group-id>
+        <name>annotations</name>
+        <version>17.0.0</version>
+        <repository>Maven Central</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.android.support.constraint</group-id>
+        <name>constraint-layout</name>
+        <version>2.0.0-beta1</version>
+        <repository>Google</repository>
+      </library-update>
+      <library-update>
+        <group-id>io.reactivex.rxjava2</group-id>
+        <name>rxandroid</name>
+        <version>2.1.1</version>
+        <repository>Maven Central</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.android.support</group-id>
+        <name>appcompat-v7</name>
+        <version>28.0.0</version>
+        <repository>Google</repository>
+      </library-update>
+      <library-update>
+        <group-id>junit</group-id>
+        <name>junit</name>
+        <version>4.13-beta-3</version>
+        <repository>JCenter,Maven Central</repository>
+      </library-update>
+    </library-updates>
+    <last-search-timestamp>1559581916099</last-search-timestamp>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5340b5d9-e43c-42f6-8949-e35cb2d5d27b" name="Default Changelist" comment="Entragas y Recolecciones">
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/error.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/cb_info_red_v.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/epic_popup_info_scanner_error.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/almo/dercas/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/almo/dercas/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/almo/dercas/Utils/Endpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/almo/dercas/Utils/Endpoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/almo/dercas/Utils/Extras.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/almo/dercas/Utils/Extras.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/almo/dercas/vistas/LecturaCredenciales.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/almo/dercas/vistas/LecturaCredenciales.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/almo/dercas/vistas/entregas/EntregaDetalle.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/almo/dercas/vistas/entregas/EntregaDetalle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/almo/dercas/vistas/firmas/FirmaElectronicaEstandar.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/almo/dercas/vistas/firmas/FirmaElectronicaEstandar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Dercas" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Dercas" type="f1a62948:ProjectNode" />
+                <item name="Dercas" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Dercas" type="f1a62948:ProjectNode" />
+                <item name="Dercas" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Dercas" type="f1a62948:ProjectNode" />
+                <item name="Dercas" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build setup" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Dercas" type="f1a62948:ProjectNode" />
+                <item name=":app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Dercas" type="f1a62948:ProjectNode" />
+                <item name=":app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Dercas" type="f1a
